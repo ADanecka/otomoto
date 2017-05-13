@@ -42,7 +42,7 @@
 			</div></a>
 			<a href="katsuv.php"><div class="trzy-kol">	
 				<img src="img/suv.jpg" class="img" alt="">
-				<h3>SUV</h3>
+				<h3>ZMIENIONE</h3>
 			</div></a>
 		</div>	
 	</section>
